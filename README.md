@@ -4,7 +4,7 @@ A Cloudflare Worker API built with [Hono](https://hono.dev/) and TypeScript.
 
 ## Tech Stack
 
-This project uses [Mondel](https://www.npmjs.com/package/mondel), a MongoDB ODM with:
+This project uses [Mondel](https://www.npmjs.com/package/mondel), a MongoDB ORM with:
 
 - **Serverless Environment Support** - Optimized for Cloudflare Workers and edge runtimes
 - **Zod-Compatible Built-in Schema Validation** - Define schemas with familiar Zod-like syntax for type-safe database operations
