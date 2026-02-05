@@ -1,5 +1,4 @@
 import { Context } from 'hono';
-import { ObjectId } from 'mongodb';
 import { hashPassword, verifyPassword } from '../utils/password';
 import { signToken } from '../utils/jwt';
 import { RegisterInput, LoginInput } from '../validations/auth.validation';
